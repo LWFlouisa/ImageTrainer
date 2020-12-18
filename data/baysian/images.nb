@@ -1,0 +1,123 @@
+o:NaiveBayes	:@features_count{
+:myself}I"’:k0KXNXK0OKOO0KXNXNKOkc;,cckOKNNWWKN0KX0KKXXXXXXNNXK0Oxdlc:,,
+:d00XNXXXXNK0OOOKO00OOc:,ccxkkO00000000K0K0000OOOO000xddl::,,
+;lOO0XXK0O000000000Okkc:,:coooxOOxk000KKKK00KK0KXXNKX0Oxl::,,
+;:oddxO0KKKXXNXK00OOkOl:,:cool;'...':xKKKXNNNXKNXXXKKkOkl::''
+,;oxxONNNNNNNWWNNNNNKKo:,;cc,..',;,...l0XNWXNNXKKXO0O00Ol:;''
+';lkk0NWWWWWWWWWWNWNNNd:,;:,..,,;,,,. .l0NWKNNK0KX0KKKOkc:;''
+.,ckx0XNNNNNNNNWNWNXNNx:,;:;........'..;k0000K00000K00Ok::;''
+..,xkOXWWWWWWNWWWWWWNNO:,,::;'......'''d0KKKKX0OO0O0OK0k::,''
+...okOKWNNWWWNWWWWKXNN0:,'::oo...','',;k0K000X0k0KKKKK0k:;,''
+...ckk0WWWWWWWNWWWWWNNX:,...''........';OXXXXNK0KXXKKKOx:;,,,
+...,xk0XWWWWWWWWWWNWXX0.           .. ....',lNXKXXXXKKOx;;,,,
+....dkOXWNNWWNNWWWXNX0.            ...'.'.   dXKKXKKKKOd;;,,,
+ ...lkOKWNNWWNNWWWXX0.              .....'.   ;XXKKKKKOo;,,,,
+ ...:xxOWNNNWNNWWWNo             .  .......    'KXXXXKOo,,,,,
+....,::cloddxxkkOOl              ..  .          .KKKKKOl,,,,,
+.........''''',,,,.                              o0OOkxc,,,,,
+  ................                                ;;;;;::;,',
+   ...............                                 ........''
+    ..............                                  .........
+  ...';::c:'.',....                                 .........
+.........       ...                                 .........
+...             ......                            ...........
+.              ..''',:cc;....  .              ...............
+:ETf1I"Myself;T@	f0:	mary}I"²'''''',,,,,,,,;;,,,,,,,,,,''.
+..'''''''''''''''''''''''....
+..'''''''''''''..'''''.......
+...''''''''..'....'''........
+...''''''''';col,''''........
+...''''''',cdxkoc''.'........
+....''''',;,okko,.'...,,'....
+.....'''',;;oOkd:ck:,xOkxl...
+.........:.dKNNNNXNd:ldodd::.
+.....cl:'..kNNNNNNXd,lodxoc,.
+..'.:kOxx,,:;;:lkXKc ;oocol..
+.''''xkdc':d00l,:oOc .,cK:   
+..'::lkc',o0kOkc;:c,  .c,    
+c0XNNNXXl:dkkOxxollc. ..     
+0XXNXK00dc:xOkko;c;'         
+0NNXK0KXKKddxk0XKo'          
+xXKOOXXNNNKXXKNWWWN0;        
+.xxooddoxK0XNNWNNWNNK;       
+.,ook0OOxkNWWWWNNNNNKd       
+.'Kk0kK0kKXNWWNNNNNNKc       
+.:OXl;:cK0XNWNNXNNNX0'       
+'0Oxxddok0NWWNNNNNXXd'' ..   
+lK0kdkOOxxxNOkXNNNXXcxO......
+;T@	I"	Mary;T@	@:	john}I"j,,,,,''',,,,,;;,,,,,;;:;;,,,,,,''''''
+'''''',,,,;;;;;;,,,,;;;;,,,,;,,,,''''
+'''',,,,,,',,;;;,''',,,,,;;,,,,,'''''
+''',;;;''':cllc,,'',,,;;;;,;,'''''',,
+,,,,;;,::cdxkkko:,,,;;;;:;;;,'',,,,,,
+,,,;;;,;;coxkkxdlc;::::::;;;,,,,;;;,;
+,,,,;;,;clocdooll::::::::;;;;;;;;;;;;
+,,,,;;;;colcdxxoc:ccc:ccc:;;::::::::;
+,,,;;,,:llloodo;;::ccclllc;::cccc:;,,
+,,,'..;::lddxx'.......''....'.'::;;,,
+......,odoloox..........;dkOOd'.,:;;:
+......,ddxoOkd;...   .,lkO0KK0O:'cc::
+...''..0OKO0KOc'..   .,cldOxdk0kxxc::
+..''''.OKK0KKO:;..    'co:xO0KK0koc::
+..''''.dK0XXKkc'..... .;ocoOO00Odcccc
+...'''.cKOXKOo;:cll;.. .,:lxOkxkO',:l
+.......;OO0xcloddxxc..  .;::ldxkc....
+.......'OOko,';;;;.......:dxdolo.....
+.......'O0Kk'.  .........lllkko......
+........x00l'. ... .....,kddxx,......
+........k0O;.  ..  .....:kdxxl.......
+........O0x'.  ..  .....:kddc:...'...
+.......'O0k..  ..   ....ckxo:;.......
+;T@	I"	John;T@	@:
+holly}I"’.              ....................'....   .                .
+.                ...........      .'..   ..... .....         
+.              ...... .... ....     ..  ';.. .........       
+..     ...... ........ ..  ',,,..    . ':lo;'..........      
+....................... .  .,',;,.     ';co;,;col'.......   ,
+           .................,;;::,.  .;,:odxxkxoxo'....... .c
+     .   ... .........,,,;'..;,::,..  ';lodxkOdxxOO:'.... .lc
+         ... .........;;,.  .,;;;.     'codxxkkO00Okl;....clc
+   .       . ......'.;;'...   ........ .;coodxkO0OOkkxo:':olc
+     .    ..  .... ,;:;.................';ccloxOOOOOOkxoc;cc:
+   .......... .....::;'.....................',lxkOOkkkdl:'...
+  .......     ....;:;,.......................,:xxdlc:,'''''''
+    ....     ..'.';;;.......   . ....'....'''',,',,,','''''''
+             ..'.',;''..  .  .. .....'''.'','',,,,,,,,''''''.
+       .......     .....            .'''.''',,,,,,,,,,'''''''
+         ..........     ...        .''''.',,,,,,,,,,''''.''''
+               ...  .    .;;;c;,' .'''''',,,,,,,','.'''.''...
+      . ... ..'''',.              .',''',,,,,,',','..........
+.... ...';;::,,;cl;..  .,,,..      .'''',,',,''''''..........
+ ...'',,cc:,';cl:. .',;codddddc.. ...'''''''''''.............
+...........;cl:....;:lxkkkkOOkxd,.  .''...'''................
+    .....;cloo; ..,;cxkkkOOOOOOkxo:'..''.................... 
+      .,cllllc.  'cclxkkkkOOOkOOOOkdo;'.'..................  
+;T@	I"
+Holly;T@	@:	cora}I"<0000000KKXNXX0KKXXXXXXXXXXKNXKKK000
+KKKKKKXXXXNXX00Ox0XNXNXXXXKNXKKKKKK
+KKKKXXXXXXWNNKKKkkXNNNNNNXKNXKKKKKK
+KXXXXXXXXXWNW000xdO00K0OOXKNXKKKKKK
+XXXXXXXXNXWNWc;codlclx:,:0KNXXXKKKK
+XXXXXNNNNNWNWxxxxkxOOkc;lKKWXXXXXXX
+XXXXXXNNNNWNNo;lk0Okxx;':KKWXXXXXXX
+XXXXNXOxO0NWNc.'o0dodd:,;XXWXXXXXXX
+XXXXXOx0OxXWNNKddxNNNNNNNNXWXXXXXXX
+XXXXX0k0kdk0KX0OOOXXXXNNNNNNXXXXXXX
+KKKo,,,lc.  ;c,loc:cllxxxxxxk0KKKXX
+KKd.        .......ld;oddxxkxO0000K
+KKxc;.      .......,x:loodxxddO0000
+0o;o0'      ....... ,xcccllo::kOOO0
+0x:lkOol;:;:;;,:;;;'.,o;;::c;,kkkkO
+0x,kdc,xdldxl:,.cxd;',,c::cc::xxxkk
+;;xoc''dd:ko:,cclOk:cooooddoc:ddxxk
+:ll:'.,ol'c:;..':l:',;;;::::,.'''',
+clc;..:l;..:,...::'........ ..'',,;
+dd:. .lc...,'...''..'''''.. ...'',;
+dx:';;kx,..'..................'',,,
+oooddddolol...;;'..;cclccc;;:;;;;;;
+dxxxxxxxxxd::oddc';odddddddoocc:,,,
+;T@	I"	Cora;T@	@:@klass_count{
+;@	;	@	;
+@	;@	;@	:@klasses[
+;;	;
+;;:@db_filepathI"data/baysian/images.nb;T
